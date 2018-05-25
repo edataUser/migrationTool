@@ -1,0 +1,6 @@
+com\ashley\migration\controller\EloLogin.class
+com\ashley\migration\MigrationTool.class
+com\ashley\migration\model\ExportDocument.class
+com\ashley\migration\controller\IniReader.class
+com\ashley\migration\model\Mask.class
+com\ashley\migration\controller\InputController.class
